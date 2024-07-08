@@ -24,8 +24,8 @@
       "jest": true
     },
     "extends": [
-      "eslint:recommended",
-      "plugin:react/recommended",
+      "eslint:all",
+      "plugin:react/all",
       "plugin:react/jsx-runtime"
     ],
     "parserOptions": {
